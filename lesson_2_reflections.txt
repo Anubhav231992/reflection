@@ -1,0 +1,8 @@
+What happens when you initialize a repository? Why do you need to do it?
+	It creates a meta deta file called with commit details called .git, it's
+	required to start using git.
+
+How is the staging area different from the working directory and the repository?
+What value do you think it offers?
+	Staging area offers more freedom to choose the changed files before commiting from
+	working directory to the respository. It helps us to choose what we want commit.
